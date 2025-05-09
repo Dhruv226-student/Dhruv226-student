@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dhruv Kachwala
 ======================================================================================================================================
 
-Web Developer
+MERN Stack Developer
 -------------
 
-🎓 Third-year BCA student | 💻 Aspiring Web Developer | 🌟 Passionate about Coding and Open Source | 🚀 Always Learning
+🎓 BCA Graduate | 💻 Aspiring MERN Stack Developer | 🌟 Passionate about Coding and Open Source | 🚀 Always Learning
 
 * 🌍  I'm based in Surat , Gujarat
 * ✉️  You can contact me at [pateldhruv5536@gmail.com](mailto:pateldhruv5536@gmail.com)
